@@ -4,7 +4,7 @@ Official PyTorch implementation of the ECML-PKDD 2025 paper:
 
 > **When GNNs Fail: Quantifying and Overcoming Temporal Correlation Volatility in Time Series**
 >
-> Chen Shao¹ ✉, Yue Wang¹, Zhenyi Zhu², Zhanbo Huang¹, Tobias Käfer¹, Zonghan Wu³, Danai Koutra⁴
+> Chen Shao¹, Yue Wang¹, Zhenyi Zhu², Zhanbo Huang¹, Tobias Käfer¹, Zonghan Wu³, Danai Koutra⁴ ✉
 >
 > ¹ Karlsruhe Institute of Technology · ² HKUST · ³ East China Normal University · ⁴ University of Michigan
 
