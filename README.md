@@ -112,7 +112,7 @@ Modeling multivariate time series by representing them as graphs, where individu
 ## Citation
 
 ```bibtex
-@inproceedings{shao2025glide,
+@inproceedings{shao2026glide,
   title     = {When {GNNs} Fail: Quantifying and Overcoming Temporal Correlation Volatility in Time Series},
   author    = {Shao, Chen and Wang, Yue and Zhu, Zhenyi and Huang, Zhanbo and K{\"a}fer, Tobias and Wu, Zonghan and Koutra, Danai},
   booktitle = {Machine Learning and Knowledge Discovery in Databases (ECML PKDD 2026)},
