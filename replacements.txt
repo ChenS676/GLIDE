@@ -1,0 +1,3 @@
+SERIESGCN==>GLIDE
+SeriesGCN==>GLIDE
+seriesgcn==>glide
